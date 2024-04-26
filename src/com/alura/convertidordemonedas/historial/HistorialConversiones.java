@@ -1,4 +1,4 @@
-package com.alura.convertidordemonedas.principal;
+package com.alura.convertidordemonedas.historial;
 
 import com.google.gson.Gson;
 import java.io.*;
@@ -9,7 +9,7 @@ import java.util.List;
 
 public class HistorialConversiones {
 
-    private static final String HISTORIAL_JSON_FILE = "historial.json";
+    private static final String HISTORIAL_JSON_FILE = "src/com.alura.convertidordemonedas/informacion/historial.json";
     private static final Gson gson = new Gson();
     private static final List<String> historial = new ArrayList<>();
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");

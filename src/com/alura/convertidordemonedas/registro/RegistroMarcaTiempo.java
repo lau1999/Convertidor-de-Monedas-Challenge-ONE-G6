@@ -1,4 +1,4 @@
-package com.alura.convertidordemonedas.principal;
+package com.alura.convertidordemonedas.registro;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
