@@ -1,4 +1,4 @@
-package com.alura.convertidordemonedas.modelos;
+package com.alura.convertidordemonedas.modelosapi;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;

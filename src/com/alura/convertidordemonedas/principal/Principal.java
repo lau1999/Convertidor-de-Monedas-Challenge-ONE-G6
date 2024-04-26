@@ -1,6 +1,8 @@
 package com.alura.convertidordemonedas.principal;
 
-import com.alura.convertidordemonedas.modelos.Conversion;
+import com.alura.convertidordemonedas.historial.HistorialConversiones;
+import com.alura.convertidordemonedas.registro.RegistroMarcaTiempo;
+import com.alura.convertidordemonedas.modelosapi.Conversion;
 import java.util.Scanner;
 
 public class Principal {
