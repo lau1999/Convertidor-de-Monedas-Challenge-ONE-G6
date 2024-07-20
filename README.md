@@ -12,4 +12,4 @@ Ya sea para viajes internacionales, transacciones comerciales o simplemente para
 ![Conversor](https://github.com/user-attachments/assets/28f54f70-5569-4d16-846c-4309fc8cfc09)
 
 
-![Uploading 1.png…]()
+![Captura de pantalla (2592)](https://github.com/user-attachments/assets/c59dfb1a-52bc-4470-b0e9-5ea873318cd4)
